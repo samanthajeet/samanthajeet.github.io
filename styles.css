@@ -33,5 +33,16 @@ li {
 .nav-links {
     display: flex;
     justify-content: space-around;
-	align-items: center;
+    align-items: center;
+}
+
+.hero-container {
+    padding: 20px;
+    width: 100%;
+}
+
+.hero-image {
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
 }
